@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project showcases the development of a sophisticated predictive model for time-series forecasting, leveraging advanced deep learning techniques. Utilizing TensorFlow and Keras, the project demonstrates a comprehensive approach from data preprocessing and exploratory data analysis (EDA) to the implementation of a complex neural network architecture.
+This project showcases the development of a sophisticated predictive model for time-series forecasting, leveraging advanced deep learning techniques. Utilizing TensorFlow and Keras, the project demonstrates a comprehensive approach from data preprocessing and exploratory data analysis (EDA) to the implementation of a complex neural network architecture.The goal of the project is to apply deep learning to do time series classification. Specifically, we will use a dataset slightly modified from the LSST dataset (used in 2018 Kaggle competition "Photometric LSST Astronomical Time Series Classification Challenge (PLAsTiCC)").
 
 ## Key Features
 
