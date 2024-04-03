@@ -1,4 +1,4 @@
-# Advanced Deep Learning Project
+# Time Series Classification using Deep Learning Models
 
 ## Overview
 
