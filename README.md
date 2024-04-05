@@ -1,4 +1,4 @@
-# Time Series Classification using Deep Learning Models
+# Time Series Forecasting using Deep Learning Models
 
 ## Overview
 
